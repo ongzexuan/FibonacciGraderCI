@@ -1,0 +1,6 @@
+java:
+    version: oraclejdk8
+
+test:
+  override:
+    - sh build.sh
