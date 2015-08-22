@@ -21,7 +21,7 @@ public class Grader {
         }
 
         // Test 3
-        if (Fibonacci.fibonacci(3) == 1) {
+        if (Fibonacci.fibonacci(3) == 10) {
             System.out.println("Test 3 Passed +1");
             score += 1;
         }
